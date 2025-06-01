@@ -2,3 +2,5 @@
 config_backups/
 *~
 \#*
+tmp/
+old/
